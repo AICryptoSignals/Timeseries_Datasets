@@ -1,0 +1,8 @@
+air_passengers: https://www.kaggle.com/datasets/chirag19/air-passengers/code
+electric_transformer: https://github.com/zhouhaoyi/ETDataset
+eurusd: https://www.kaggle.com/datasets/chandrimad31/eurusd-forex-trading-data-20032021
+jena_climate: https://keras.io/examples/timeseries/timeseries_weather_forecasting/ 
+jetrail: https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+monthly_sunspots: https://raw.githubusercontent.com/jbrownlee/Datasets/master/monthly-sunspots.csv
+sp500: https://de.investing.com/indices/us-spx-500-historical-data
+yosemite_temperatures: https://raw.githubusercontent.com/facebook/prophet/main/examples/example_yosemite_temps.csv
